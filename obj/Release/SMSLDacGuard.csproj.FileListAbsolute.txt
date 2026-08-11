@@ -4,3 +4,9 @@ C:\Users\Loucouss\Downloads\MB_SMSLDacGuard_source\SMSLDacGuard\bin\Release\SMSL
 C:\Users\Loucouss\Downloads\MB_SMSLDacGuard_source\SMSLDacGuard\bin\Release\SMSLDacGuard.pdb
 C:\Users\Loucouss\Downloads\MB_SMSLDacGuard_source\SMSLDacGuard\obj\Release\SMSLDacGuard.dll
 C:\Users\Loucouss\Downloads\MB_SMSLDacGuard_source\SMSLDacGuard\obj\Release\SMSLDacGuard.pdb
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\bin\Release\SMSLDacGuard.dll
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\bin\Release\SMSLDacGuard.pdb
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\SMSLDacGuard.csproj.AssemblyReference.cache
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\SMSLDacGuard.csproj.CoreCompileInputs.cache
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\SMSLDacGuard.dll
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\SMSLDacGuard.pdb

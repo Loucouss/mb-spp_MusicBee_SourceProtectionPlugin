@@ -7,8 +7,8 @@
     <ProjectGuid>{3180EDB9-9764-469D-BDFB-C648BFAC1AD9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>SMSLDacGuard</RootNamespace>
-    <AssemblyName>SMSLDacGuard</AssemblyName>
+    <RootNamespace>mb_spp</RootNamespace>
+    <AssemblyName>mb_spp</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>

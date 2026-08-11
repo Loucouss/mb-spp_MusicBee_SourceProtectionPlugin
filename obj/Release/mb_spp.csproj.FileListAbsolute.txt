@@ -1,0 +1,6 @@
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\mb_spp.csproj.AssemblyReference.cache
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\mb_spp.csproj.CoreCompileInputs.cache
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\bin\Release\mb_spp.dll
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\bin\Release\mb_spp.pdb
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\mb_spp.dll
+P:\06_SOULSEEK\OneDrive\Programmation\SMSLDacGuard\obj\Release\mb_spp.pdb
